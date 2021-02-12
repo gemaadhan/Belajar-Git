@@ -50,6 +50,15 @@ git branch --merged ==> melihat branch2 yang sudah dimerge
 git branch -d namabranch ==> hapus branch
 ```
 
+
 ```bash
 kosong
+```
+Bikin Nama, nanti nama ini yang akan muncul saat ngepush di remote
+```bash
+git config --global/local user.email "gemaadhan@gmail.com"
+git config --global/local user.name "gemaadhan"
+git config --global/local --unset-all user.name
+git config --global/local --unset-all user.email
+
 ```
