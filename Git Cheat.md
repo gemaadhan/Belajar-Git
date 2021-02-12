@@ -62,3 +62,10 @@ git config --global/local --unset-all user.name
 git config --global/local --unset-all user.email
 
 ```
+
+apa itu fetch merge dan pull
+```bash
+git fetch ==> untuk mencocokan
+git merge ==> untuk menggabungkan
+git pull ==> untuk menarik perubahan dari remote
+```
