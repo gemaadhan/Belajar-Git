@@ -49,3 +49,7 @@ git branch --merged ==> melihat branch2 yang sudah dimerge
 ```bash
 git branch -d namabranch ==> hapus branch
 ```
+
+```bash
+kosong
+```
